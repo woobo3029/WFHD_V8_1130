@@ -1,0 +1,94 @@
+文件(&F),File(&F)
+编辑(&E),Edit(&E)
+显示(&V),View(&V)
+工具(&T),Tool(&T)
+设备(&M),Machine(&M)
+帮助(&H),Help(&H)
+
+新建(&N),New(&N)
+打开(&O),Open(&O)
+导入 DXF 文件(&D),Import DXF file(&D)
+保存(&S),Save(&S)
+另存(&A),Save As(&A)
+退出(&E),Exit(&E)
+
+撤消(&U),Undo(&U)
+重做(&R),Redo(&R)
+
+白色画板(&W),White Background
+黑色画板(&B),Black Background
+
+平移至原点(&O),Translate to Origin(&O)
+平移(&T),Translate(&T)
+镜像(&M),Mirror(&M)
+旋转(&R),Rotate(&R)
+缩放(&S),Scale(&S)
+
+沿X中心线(&X),By X
+沿Y中心线(&Y),By Y
+沿 45°线(&D),By 45 degree
+
+自定义,User Define
+
+设备参数(&S),Machine Parameters
+平台参数(&P),Platform Parameters
+语言(&L),Language(&L)
+
+关于(&A),About(&A)
+注册(&R),Registration(&R)
+
+手动控制, Manual Control
+送料,Feed
+进料,FF
+退料,FB
+连续进料,C.FF
+连续退料,C.FB
+
+弯弧/拍弧,Bend/Bat
+加上空程角,AAAA1
+左弯弧,AAAA2
+右弯弧,AAAA3
+连续向左,AAAA4
+连续向右,AAAA5
+左拍弧,AAAA6
+右拍弧,AAAA7
+
+折角,BBBB
+左折角,BBBB1
+右折角,BBBB2
+
+铣角,Mil
+铣刀旋转,CCCC1
+铣刀停转,CCCC2
+铣内角,CCCC3
+铣外角,CCCC4
+升,Up
+降,Dn
+外侧,Outer
+内侧,Inner
+
+设置围字路径,Set Path
+起点,Start
+终点,End
+反向,Rev
+清除,Clr
+复位,Reset
+预演,Preview
+
+运行,Run
+停止,Stop
+暂停,Pause
+继续,Resume
+
+运行次数,Loops
+当前计数,Count
+
+
+运动角度,m.ang.
+左弯弧半径,L.bend.R.
+右弯弧半径,R.bend.R.
+左拍弧角度,L.Bat.ang.
+右拍弧角度,R.Bat.ang.
+
+保存,Save
+不保存,Cancel

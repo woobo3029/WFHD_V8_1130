@@ -1,0 +1,24 @@
+ length_arr = UBound(PathOutputPoint)
+    Do While I <= length_arr	'<
+        If PathOutputPoint(I - 1).Type = 4 And PathOutputPoint(I).Type = 3 And PathOutputPoint(I).AngleToNext < 0 Then
+            temp = temp + dis1
+            For j = I To UBound(PathOutputPoint)
+                PathOutputPoint(j) = PathOutputPoint(j)
+                PathOutputPoint(j).LengthFromStart = PathOutputPoint(j).LengthFromStart + dis1
+            Next j
+            
+        End If
+        I = I + 1
+    Loop
+    I = 1
+    Do While I <= length_arr  '<
+        If PathOutputPoint(I - 1).Type = 4 And PathOutputPoint(I).Type = 3 And PathOutputPoint(I - 1).AngleToNext < 0 Then
+            temp = temp + dis2
+            For j = I To UBound(PathOutputPoint)
+                PathOutputPoint(j) = PathOutputPoint(j)
+                PathOutputPoint(j).LengthFromStart = PathOutputPoint(j).LengthFromStart + dis2
+            Next j
+            
+        End If
+        I = I + 1
+    Loop

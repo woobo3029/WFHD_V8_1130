@@ -1,0 +1,171 @@
+文件(&F),File(&F)
+编辑(&E),Edit(&E)
+显示(&V),View(&V)
+工具(&T),Tool(&T)
+设备(&M),Machine(&M)
+帮助(&H),Help(&H)
+
+新建(&N),New(&N)
+打开(&O),Open(&O)
+导入 DXF 文件(&D),Import DXF file(&D)
+导入 AI 文件(&D),Import AI file(&I)
+保存(&S),Save(&S)
+另存(&A),Save As(&A)
+退出(&E),Exit(&E)
+
+撤消(&U),Undo(&U)
+重做(&R),Redo(&R)
+
+删点,DeletePoint
+加点,AddPoint
+修改,ModifyPoint
+测量距离,MeasureDistance
+测量面积,MeasureAera
+
+图形找回,Zoom
+显示节点信息,ShowPointList
+白色画板(&W),White Background(&W)
+黑色画板(&B),Black Background(&B)
+
+平移至原点(&O),Translate to Origin(&O)
+平移(&T),Translate(&T)
+镜像(&M),Mirror(&M)
+旋转(&R),Rotate(&R)
+缩放(&S),Scale(&S)
+
+沿X中心线(&X),By X
+沿Y中心线(&Y),By Y
+沿 45°线(&D),By 45 degree
+
+自定义,User Define
+
+设备参数(&S),Parameters Setting(&S)
+平台参数(&P),Platform Parameters
+语言(&L),Language(&L)
+
+关于(&A),About(&A)
+注册(&R),Registration(&R)
+
+手动控制, mmmm
+送料长度,Feed
+进料,FW
+退料,BW
+连续进料,Slow FW
+连续退料,Slow BW
+连续进料,C.FF
+连续退料,C.FB
+
+弯弧,Bend
+弯弧/拍弧,Beat/Bend
+加上空程角,Add Idle Stroke
+左弯弧,Bend Left
+右弯弧,Bend Right
+连续向左,C.Bend Left
+连续向右,C.Bend Right
+左拍弧,LBeat
+右拍弧,RBeat
+折角,BBBB
+左折角,BBBB1
+右折角,BBBB2
+
+铣槽,Mill Slot
+铣角角度,Cut Ang
+铣刀旋转,Cutter On
+铣刀停转,Cutter Off
+铣内角,Inner-Slot
+铣外角,Outer-Slot
+升,Up
+降,Dn
+外侧,Turn Outer
+内侧,Turn Inner
+
+设置围字路径,Set Path
+起点,StartPt
+终点,EndPt
+反向,Rev
+清除,Clear
+复位,Home
+预演,Preview
+
+运行,Run
+停止,Stop
+暂停,Pause
+继续,Resume
+
+运行次数,Repeat Times
+当前计数,LoopCnt
+
+线段连续,Smoth path
+弯弧连续,Smoth bending
+首端补偿,Pre_Comp(mm)
+末端补偿,End_Comp(mm)
+进料长度,FeedLen
+铣槽角度,CutAngle
+
+保存,Save
+不保存,Cancel
+
+
+进料速度,Feed Speed
+人工弯弧速度,ManualBendSpd
+操作指南(&R),User's Guide(&R)
+计算提前量,Calc. Encoder Ahead(Puls)
+
+编码器每毫米脉冲数,Encoder Pulse/MM
+进料电机每毫米脉冲数,Feeding Pulse/MM
+弯弧器每角度脉冲数,Bending Pulse/Deg
+复位调整角度,Bender Adjustment(Deg)
+单面切割,Single Cut
+拼接段(mm),Splice Len(MM)
+使用编码器,Use Encoder
+左、右弯弧空程角度(deg),Bender L/R idle Stroke(Degree)
+末端角度(Deg), End-Slot Degree
+升降(mm), M.V.Stroke(MM)
+最小连续距离(mm), Min continuous Lines Len(MM)
+弯弧器拍弧回弹系数(0-1), BenderSpringback
+铣角器升降每毫米脉冲数,  Mill Vertical Pulse/MM
+铣角器旋转每角度脉冲数,Mill Rotating Pulse/Degree
+升降复位调整(mm),Mill Vertical  Adjustment(MM)
+升降行程(mm),Mill Vertical Strock(MM)
+复位调整角度(Deg),Mill R.Search Stroke(Deg)
+拉直距离(mm), Min Len for Bender(MM)
+铣角点到弯弧点的距离(mm),Mill-Bender Diatance(MM)
+闭合外轮廓端点补偿(mm),OuterLine Compensation(MM)
+闭合内轮廓端点补偿(mm),InnerLine Compensation(MM)
+铣外角长度补偿(mm),Outer Angle(mm)
+铣内角长度补偿(mm),Inner Angle(mm)
+型材厚度,Section Thickness(mm)
+
+升降复位,VertUpdown Home Enable
+弯弧,Bender Home Enable
+起始速度,StartSpd(p/s)
+速度,Speed(p/s)
+加速度,Acc(p/s2)
+铣刀升降,Mill Vertical
+铣刀旋转,Mill Rotating
+铣刀回零,Mill Home
+弯弧速度,Bending
+手动弯弧,ManualBending
+弯弧回零,Bender Home
+进料减速距离(mm),Feeding Break Stroke(mm)
+分段间隔距离(mm),Space Interval(mm)
+分段等待时间(s),Division Waiting(s)
+铣角起始角度,Milling Start Angle(Degree)
+铣刀提前启动距离,Mill pre-on Stroke(mm)
+
+    不折角,No Turn Angle
+折角度数,TurnAngle(deg)
+折角点偏移,PointOffset(MM)
+
+最短铣角间隔,Mill Min Interval(mm)
+刀刃角度,Blade Degree(Degree)
+铣内角最大角度,Max Inner Ang(Degree)
+铣刀半径,Cutter Radius(mm)
+弯弧最小半径,Bending Min Radius(mm)
+铣外角最大角度,Max Out Angle(Degree)
+
+选择型材,Select Section
+型材名,Edit Name
+锁定数据,Data Locked
+分类,Sort
+显示曲线,Show Curve

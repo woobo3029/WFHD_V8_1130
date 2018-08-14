@@ -1,0 +1,9 @@
+Line 13: Class Test.XPButton of control XPButton3 was not a loaded control class.
+Line 22: Class Test.XPButton of control XPButton2 was not a loaded control class.
+Line 31: Class Test.XPButton of control XPButton1 was not a loaded control class.
+Line 19: The property name _ExtentX in XPButton3 is invalid.
+Line 20: The property name _ExtentY in XPButton3 is invalid.
+Line 28: The property name _ExtentX in XPButton2 is invalid.
+Line 29: The property name _ExtentY in XPButton2 is invalid.
+Line 37: The property name _ExtentX in XPButton1 is invalid.
+Line 38: The property name _ExtentY in XPButton1 is invalid.
